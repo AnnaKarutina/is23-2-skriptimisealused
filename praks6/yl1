@@ -1,0 +1,9 @@
+#!/bin/bash
+for(( arv=1; arv<=20; arv++ ))
+do
+  if [ $arv -eq 1 ]; then
+	echo "$arv on algarv"
+  else
+	# kontroll
+  fi
+done
